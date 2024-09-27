@@ -57,7 +57,6 @@ nav ul li a:hover {
     color: #ff6666;
 }
 
-/* Hero Section */
 #home {
     height: 100%;
     background: url('background.jpg') no-repeat center center/cover;
@@ -100,7 +99,6 @@ nav ul li a:hover {
     color: #ff6666;
 }
 
-/* About Section */
 .about-section {
     padding: 50px 0;
     background-color: #95dbf9;
@@ -118,7 +116,6 @@ nav ul li a:hover {
     line-height: 1.8;
 }
 
-/* Portfolio Section */
 .portfolio-section {
     padding: 50px 0;
     text-align: center;
@@ -146,7 +143,7 @@ nav ul li a:hover {
 .portfolio-item a {
     color: red;
     text-decoration: none;
-    color: inherit; /* Linklarning rangini o'zgartirmaslik */
+    color: inherit; 
 }
 
 .portfolio-item img {
@@ -160,7 +157,6 @@ nav ul li a:hover {
     margin-bottom: 10px;
 }
 
-/* Contact Section */
 .contact-section {
     padding: 50px 0;
     background-color: #3b5998;
@@ -202,7 +198,6 @@ form button:hover {
     background-color: #cc5151;
 }
 
-/* Footer */
 footer {
     padding: 20px 0;
     text-align: center;
